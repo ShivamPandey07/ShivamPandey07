@@ -1,102 +1,124 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 
 <h3 align="center">
-Senior Software Test Engineer | Capital Markets Specialist | Python Developer | Quant Trading Enthusiast
+Senior Software Test Engineer | Playwright Specialist | Python Developer
 </h3>
 
 <p align="center">
-Building scalable test automation frameworks and data-driven trading systems.
+Automation Engineering • Capital Markets • Insurance • Supply Chain • Aviation
 </p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Senior+Software+Test+Engineer;Playwright+%7C+Cypress+%7C+Selenium+Expert;Python+Developer;Capital+Markets+and+Trading+Systems;Buildingng+Quant+Platform
+</p>
 
-## 🚀 About Me
 
-- 💼 Senior Test Automation Engineer with 6+ years of experience
-- 📈 Capital Markets & Equity Trading Domain Expert
-- 🔄 Experienced in Trade Lifecycle Testing (OMS → EMS → Exchange)
-- 🧪 Automation Specialist using Playwright, Selenium & Cypress
-- 🐍 Python Developer building quantitative trading systems
-- 🤖 Creator of AI_Scalping - Algorithmic Trading Research Platform
-- 📊 Passionate about Backtesting, Data Analytics & Financial Markets
 
----
 
-## 🛠 Tech Stack
 
-### Languages
+## ⚡ Tech Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColorava](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.o/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](httpsio/badge/TypeScript-3178C6?style=for-the-badge&logogoColor=white
+<p align="center">
 
-### Test Automation
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,selenium,git,github,docker,linux,azure"/
 
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://imgge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-172logo=cypress&logoColor=white
+## 🚀 Automation Engineering
 
-### Markets & Trading
+<table>
+<tr>
+<td>
 
-- FIX Protocol
-- OMS / EMS Testing
-- Trade Lifecycle Validation
-- Market Data Testing
-- Equity Trading Systems
-- Algorithmic Trading
-- Backtesting Frameworks
+✅ Playwright
 
----
+✅ Cypress
 
-## 🔥 Featured Project
+✅ Selenium
 
-# AI Scalping
+✅ API Automation
 
-Quantitative Trading Research Platform built using Python.
+✅ CI/CD Integration
 
-### Features
+✅ BDD Frameworks
 
-✅ Historical Data Analysis
+✅ Test Architecture
 
-✅ Strategy Backtesting
+</td>
 
-✅ Risk Management
+<td>
 
-✅ Position Sizing
+🧪 6+ Years Experience
 
-✅ Paper Trading Simulation
+✈️ Aviation
 
-✅ Performance Analytics
+🚚 Supply Chain
 
-✅ Multi Strategy Architecture
+🛡️ Insurance
+
+📈 Capital Markets
+
+</td>
+
+</tr>
+</table>
+
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShivamPandey07&showght
+<img height="170em" src="https://github-readme-stats.vercel.app/api/topndey07&layout=compact&theme=tokyonight
+</p>
+
+<p align="center">
+https://github-readme-activity-graph.vercel.app/graph?username=ShivamPandey07&theme=tokyo-night
+</p>
+
+# 🌟 Featured Project
+
+## AI_Scalping
+
+Python Based Quantitative Trading Research Platform
+
+### Capabilities
+
+📊 Historical Data Engine
+
+📈 Backtesting Framework
+
+🎯 Risk Management
+
+💰 Position Sizing
+
+📋 Paper Trading
+
+📉 Performance Analytics
+
+⚡ Multi Strategy Architecture
 
 ### Validated Strategies
 
-📈 One Box Breakout
+✅ One Box Breakout
 
-📈 Multi Timeframe Engulfing
+✅ Opening Range Breakout
 
-📈 VWAP Based Scalping
+✅ MTF Engulfing
 
-📈 Opening Range Breakout
+✅ VWAP Scalping
 
----
+## 📈 Research Results
 
-## 📊 GitHub Stats
+| Strategy | Symbol | Win Rate |
+|-----------|----------|----------|
+| One Box | TCS | 63.64% |
+| One Box | RELIANCE | 56.86% |
+| MTF Strategy | RELIANCE | Research |
+| VWAP Strategy | TCS | Research |
 
-![](https://github-readme-stats.vercel.app/api?username=ShivamPandey07&show_icons=true&theme=tokyonight)
+## 🏆 Achievements
 
-![](https://githubme-streak-stats.herokuapp.com/?user=ShivamPandey07&theme=tokyonight)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamPandey07&theme=tokyonight&row
 
-![](https://github-readme-stats.vercelapi/top-langs/?usernamevamPandey07&layout=compact&theme=tokyonight
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShivamPandey07&label=Profile+Views&color=0
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/shivampandey32000
-- GitHub: https://github.com/ShivamPandey07
-
----
-
-⭐ Building Data Driven Trading Systems & Automation Frameworks
