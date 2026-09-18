@@ -27,38 +27,48 @@
 
 ## 🛠️ Technology Ecosystem
 
-### 🧪 Automation and Testing
-
-<p align="center">
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/playwright" alt="Playwright" title="Playwright" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cypress" alt="Cypress" title="Cypress" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium" alt="Selenium" title="Selenium" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://pytest.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytest" alt="Pytest" title="Pytest" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cucumber" alt="Cucumber" title="Cucumber" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postman" alt="Postman" title="Postman" width="48" height="48" /></a>
-</p>
-
-### 💻 Programming and Databases
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk" alt="Java" title="Java" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" /></a>
-</p>
-
-### ⚙️ DevOps, Cloud, and CI/CD
-
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ShivamPandey07" target="_blank" rel="noreferrer"><img src="https://www.readmecodegen.com/api/social-icon?name=github&amp;size=96" alt="GitHub" title="GitHub" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftazure" alt="Microsoft Azure" title="Microsoft Azure" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jenkins" alt="Jenkins" title="Jenkins" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="48" height="48" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h3>🧪 Automation</h3>
+      <p>
+        <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/playwright" alt="Playwright" title="Playwright" width="46" height="46" /></a>&nbsp;
+        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cypress" alt="Cypress" title="Cypress" width="46" height="46" /></a><br />
+        <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium" alt="Selenium" title="Selenium" width="46" height="46" /></a>&nbsp;
+        <a href="https://pytest.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytest" alt="Pytest" title="Pytest" width="46" height="46" /></a>
+      </p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>💻 Programming</h3>
+      <p>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="46" height="46" /></a>&nbsp;
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk" alt="Java" title="Java" width="46" height="46" /></a><br />
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="46" height="46" /></a>&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="46" height="46" /></a>
+      </p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>⚙️ DevOps</h3>
+      <p>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="46" height="46" /></a>&nbsp;
+        <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftazure" alt="Microsoft Azure" title="Microsoft Azure" width="46" height="46" /></a><br />
+        <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jenkins" alt="Jenkins" title="Jenkins" width="46" height="46" /></a>&nbsp;
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="46" height="46" /></a>
+      </p>
+      <p><strong></strong><br /><strong></strong><br /><strong></strong><br /><strong></strong></p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>📈 Trading Tech</h3>
+      <p>
+        <img src="https://img.shields.io/badge/FIX-0052CC?style=for-the-badge" alt="FIX Protocol" title="FIX Protocol" /><br />
+        <img src="https://img.shields.io/badge/OMS-007ACC?style=for-the-badge" alt="OMS" title="Order Management Systems" /><br />
+        <img src="https://img.shields.io/badge/EMS-228B22?style=for-the-badge" alt="EMS" title="Execution Management Systems" /><br />
+        <img src="https://img.shields.io/badge/Market_Data-D2691E?style=for-the-badge" alt="Market Data" title="Market Data" /><br />
+        <img src="https://img.shields.io/badge/Algo_Trading-6A0DAD?style=for-the-badge" alt="Algorithmic Trading" title="Algorithmic Trading" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,7 +85,6 @@
 
 ## 🎯 Professional Snapshot
 
-```yaml
 Experience:
   - 6+ Years
 
@@ -99,12 +108,10 @@ Current Focus:
   - AI-Assisted Testing
   - Trading Technology
   - Quantitative Research
-```
 
----
+----
 
 ## 💻 Technical Skills
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -226,8 +233,8 @@ Current Focus:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamPandey07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Shivam Pandey GitHub statistics" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamPandey07&amp;theme=tokyonight&amp;hide_border=true" alt="Shivam Pandey GitHub contribution streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamPandey07&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamPandey07&theme=tokyonight&hide_border=true">
 </p>
 
 ---
